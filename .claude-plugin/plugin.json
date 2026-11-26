@@ -1,0 +1,12 @@
+{
+  "name": "japanese-writing",
+  "description": "Lightweight, script-free agent skill for drafting and polishing natural Japanese prose without AI slop.",
+  "version": "0.1.0",
+  "skills": "./skills/",
+  "author": {
+    "name": "aeopress"
+  },
+  "homepage": "https://github.com/aeopress/japanese-writing",
+  "repository": "https://github.com/aeopress/japanese-writing",
+  "license": "MIT"
+}

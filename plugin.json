@@ -1,0 +1,15 @@
+{
+  "name": "japanese-writing",
+  "description": "輕量無腳本的自然日文寫作與推敲技能（萃取自 nanaism/yomiyasu 構文與保真核心），按需載入去除日文 AI 味、修復主述結構與直譯詞。",
+  "author": {
+    "name": "aeopress",
+    "url": "https://github.com/aeopress"
+  },
+  "homepage": "https://github.com/aeopress/japanese-writing",
+  "repository": "https://github.com/aeopress/japanese-writing",
+  "suggestedPrompts": [
+    "用 japanese-writing 把這段日文技術說明改寫成更自然的日文",
+    "以自然商務日文起草這封回覆信，並套用 japanese-writing 原則",
+    "檢查這段日文稿的 AI 味、主述對應與直譯詞，保留原意進行推敲"
+  ]
+}

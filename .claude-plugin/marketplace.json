@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "japanese-writing",
+  "description": "Claude Code marketplace for japanese-writing",
+  "owner": {
+    "name": "aeopress"
+  },
+  "plugins": [
+    {
+      "name": "japanese-writing",
+      "description": "Lightweight, script-free agent skill for drafting and polishing natural Japanese prose without AI slop.",
+      "version": "0.1.0",
+      "author": {
+        "name": "aeopress"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/aeopress/japanese-writing",
+      "repository": "https://github.com/aeopress/japanese-writing",
+      "license": "MIT"
+    }
+  ]
+}
