@@ -1,5 +1,7 @@
 # japanese-writing
 
+![japanese-writing cover](assets/cover.png)
+
 `japanese-writing` is a script-free Agent Skill for drafting, translating into, and polishing natural Japanese prose.
 
 The rules come from [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) (MIT License), trimmed to one 53-line `SKILL.md` (2,390 characters, 5.6 KB) with no external scripts and no extra tool calls.
